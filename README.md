@@ -1,2 +1,2 @@
 # google-clone
-[View my site](yesho-googleclone.netlify.app)
+[View my site](https://ny3377.github.io/google-clone/)
